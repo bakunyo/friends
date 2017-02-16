@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends</title>
+    <link>http://bakunyo.github.io/friends/index.xml</link>
+    <description>Recent content on Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Fri, 17 Feb 2017 02:11:12 +0900</lastBuildDate>
+    <atom:link href="http://bakunyo.github.io/friends/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>introduction</title>
+      <link>http://bakunyo.github.io/friends/post/introduction/</link>
+      <pubDate>Fri, 17 Feb 2017 02:11:12 +0900</pubDate>
+      
+      <guid>http://bakunyo.github.io/friends/post/introduction/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;This is first post of &amp;ldquo;friends&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

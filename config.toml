@@ -1,0 +1,40 @@
+languageCode = "en-us"
+title = "Memory of Friends"
+baseurl = "http://bakunyo.github.io/friends/"
+theme = "hugo-steam-theme"
+disqusShortname = "bakunyo"
+publishDir = "docs"
+paginate = 10
+
+[params]
+
+	title = "Friends"
+	subtitle = "Memory of Friends"
+	copyright = "Released under the MIT license."
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "green"
+	# Enable Google Analytics be inserting your tracking code
+	googleAnalytics = ""
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "bakunyo"
+	bio = "Software Engineer"
+	description = "memo for me"
+	location = "" # optional
+	twitter = "bakunyo" # optional
+	github = "bakunyo" # optional
+ 	gitlab = "" # optional
+
+	# Enable a comment system
+	# You can choose between Disqus or Google Plus by setting comments
+	# to disqus or googleplus. For using Disqus you need to enter your
+	# shortname in disqusShortname at the top of the configs. 
+	comments = "disqus"
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
